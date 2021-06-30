@@ -1,0 +1,2 @@
+# Basics-of-Neural-Networks-using-tensorflow
+The project is all about the basics of Neural Networks. Here I have implemented the model MLP for Binary Classification for creating a deep learning model. The project has two portions. At the first place I have focused on implementing a basic neural network model rather than concentrating on improving accuracy results. Lastly, I have worked on improving the accuracy result tuning the hyperparameters. Moreover, the model prediction results are described through model evaluation matrix, the confusion matrix.
